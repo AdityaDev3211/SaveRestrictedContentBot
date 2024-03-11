@@ -1,5 +1,4 @@
 #Github.com/AdityaDev3211
-@ DroneBots
 
 import os
 from .. import bot as Drone
